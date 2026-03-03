@@ -49,3 +49,5 @@ SKETCH_P5_RESO/
 
 # Exclude other modes
 modes/
+fluxusVis/
+tools/
