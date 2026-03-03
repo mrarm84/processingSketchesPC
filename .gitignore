@@ -1,0 +1,39 @@
+# Processing exports
+**/windows-amd64/
+**/macos-x86_64/
+**/application.linux32/
+**/application.linux64/
+**/application.linux-armv6hf/
+**/application.linux-arm64/
+**/application.windows32/
+**/application.windows64/
+**/application.macosx/
+
+# Videos and large media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.zip
+*.fbx
+*.obj
+*.mtl
+
+# Build and IDE files
+**/node_modules/
+**/build/
+**/target/
+**/.gradle/
+**/.idea/
+**/.DS_Store
+.DS_Store
+._.DS_Store
+
+# Autosaves and temp files
+*.autosave
+*.tmp
+*.log
+
+# Project specific exclusions
+**/fluxus_bin/
