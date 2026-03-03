@@ -37,3 +37,15 @@
 
 # Project specific exclusions
 **/fluxus_bin/
+gradle-java-processing4-app/
+
+# Exclude macOS/Syphon specific folders
+*syphon*
+
+# Exclude p5.js/web specific folders
+p5www*
+sketch_*_p5_*
+SKETCH_P5_RESO/
+
+# Exclude other modes
+modes/
